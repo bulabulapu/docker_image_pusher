@@ -1,5 +1,2 @@
-portainer/portainer-ce
-linuxserver/jellyfin
-linuxserver/transmission
-p3terx/aria2-pro
-p3terx/ariang
+gitea/gitea
+mysql:8
