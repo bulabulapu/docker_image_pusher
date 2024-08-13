@@ -1,2 +1,1 @@
-gitea/gitea
-mysql:8
+ubuntu:lastest
